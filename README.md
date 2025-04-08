@@ -1,5 +1,7 @@
 # Lab2_Linux
 #note : i cleared the output by mistake so i couldn't attach it.
+
+
 #List the available shells in your system
 
     cat /etc/shells
